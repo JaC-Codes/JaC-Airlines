@@ -25,9 +25,6 @@ public class JcAirlines {
         passengerHandler.passengerRegister(scan, database);
         passengerHandler.idNumberCheck(database, scan);
 
-        System.out.println("New database class");
-
-
     }
 
 
